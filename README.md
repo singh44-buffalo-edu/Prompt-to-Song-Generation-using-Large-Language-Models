@@ -2,7 +2,8 @@
 
 
 ## Lyric Generation from the textual prompt
-
+1. Go to Generation.ipynb file, where we have used LLama Factory code to finetune the LLM
+2. Also inthe file is the code to generate dataset, and code to create music samples as per AudioGen, Song composer and Music Gen.
 
 ## Genre Classification of Lyrics
 1. Go to 'genre_classifier' folder
