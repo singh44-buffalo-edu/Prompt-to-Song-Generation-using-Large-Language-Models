@@ -31,6 +31,8 @@ The system architecture consists of three main components:
    - Transformer-2-Sequence model: A two-stage encoder-decoder architecture with a frozen DistilBERT encoder and an LSTM decoder.
    - Reinforcement Learning with Human Feedback (RLHF): A policy network is trained to select chords step-by-step, optimized using feedback from a learned reward model.
 
+![System Architecture]([images/architecture.png])
+
 ## Getting Started
 
 To get started with the project, follow these steps:
