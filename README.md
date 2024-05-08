@@ -1,7 +1,3 @@
-# Prompt-to-Song-Generation-using-Large-Language-Models
-
-Here's a README.md file for the GitHub repository codebase:
-
 # Prompt-to-Song Generation using Large Language Models
 
 This project implements a system for generating musical compositions from textual prompts by leveraging large language models (LLMs). Given a thematic prompt specifying elements like title, artist, genre, and verse ideas, our system generates song lyrics, predicts the musical genre, and composes a chord progression to produce a complete song.
@@ -15,7 +11,6 @@ This project implements a system for generating musical compositions from textua
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
